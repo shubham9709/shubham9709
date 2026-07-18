@@ -63,20 +63,6 @@ A scalable URL shortening service inspired by Bitly with analytics and redirecti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham9709&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham9709&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham9709&layout=compact&theme=github_dark" />
-</p>
-
 ---
 
 ## 🌱 Current Focus
